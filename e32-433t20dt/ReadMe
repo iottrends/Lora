@@ -1,0 +1,8 @@
+This repo contains.
+1. circuit diagram fritzing files 
+2. Driver Code.
+3. Sample working code for Lora functionality.
+The working code
+- initializes the files
+- Send/ Transmit message
+- Loop for Rx message.
